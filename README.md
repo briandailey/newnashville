@@ -11,6 +11,7 @@ As participants of the local technology community, we agree to the following:
 For further resources, also see:
 * [The Code Manifesto](http://codemanifesto.com/).
 * [Ember JS Community Guidelines](http://emberjs.com/guidelines/)
+* [GitHub's Upcoming Nashville Based Codeconf Code of Conduct](http://codeconf.com/codeofconduct.html)
 
 Feel free to link to this using the hashtag [#NashTechUnited](https://twitter.com/search?q=NashTechUnited&src=typd&vertical=default&f=tweets).
 
