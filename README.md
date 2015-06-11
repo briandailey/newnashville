@@ -4,13 +4,14 @@ Nashville has a problem. Despite it's recent growth and widespread acclaim, ther
 
 As participants of the local technology community, we agree to the following:
 
-* Inclusiveness cannot taken for granted: efforts should be made to include minorities.
+* Inclusiveness cannot be taken for granted: efforts should be made to include minorities.
 * Egos are not welcome.
 * Code of Conduct should apply to all events. Python's is a good [starting point](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md).
 
 For further resources, also see:
 * [The Code Manifesto](http://codemanifesto.com/).
 * [Ember JS Community Guidelines](http://emberjs.com/guidelines/)
+* [GitHub's Upcoming Nashville Based Codeconf Code of Conduct](http://codeconf.com/codeofconduct.html)
 
 Feel free to link to this using the hashtag [#NashTechUnited](https://twitter.com/search?q=NashTechUnited&src=typd&vertical=default&f=tweets).
 
