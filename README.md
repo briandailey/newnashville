@@ -4,7 +4,7 @@ Nashville has a problem. Despite it's recent growth and widespread acclaim, ther
 
 As participants of the local technology community, we agree to the following:
 
-* Inclusiveness cannot taken for granted: efforts should be made to include minorities.
+* Inclusiveness cannot be taken for granted: efforts should be made to include minorities.
 * Egos are not welcome.
 * Code of Conduct should apply to all events. Python's is a good [starting point](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md).
 
