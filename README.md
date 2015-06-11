@@ -8,6 +8,7 @@ As participants of the local technology community, we agree to the following:
 * Egos are not welcome.
 * Code of Conduct should apply to all events. Python's is a good [starting point](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md).
 
+For further resources, also see [The Code Manifesto](http://codemanifesto.com/).
 
 Feel free to link to this using the hashtag [#NashTechUnited](https://twitter.com/search?q=NashTechUnited&src=typd&vertical=default&f=tweets).
 
